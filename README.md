@@ -1,5 +1,5 @@
 # Tic-Tac-Toe-Game-Vb.net-
-A simple vb.net tic-tac toe game for two players
+A simple vb.net tic-tac-toe game for two players.
 
 # Screenshots
 ![01](https://raw.githubusercontent.com/HarshilKamani/Tic-Tac-Toe-Game-Vb.net-/main/01.jpg)
